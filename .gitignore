@@ -1,0 +1,23 @@
+.idea
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Python-related
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+# Image processing output
+/output/
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Virtual environment
+venv/
+*.log
